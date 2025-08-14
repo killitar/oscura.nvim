@@ -25,7 +25,7 @@ local palette = {
 	number = "#F9B98C",                -- Numbers and constants
 	string = "#F9B98C",                -- Strings
 	type = "#E6E7A3",                  -- Types, classes
-	attribute = "#54C0A3",             -- HTML attributes
+	attribute = "#E6E6E6",             -- HTML attributes
 	
 	-- Accent colors
 	blue = "#479FFA",                  -- Links
