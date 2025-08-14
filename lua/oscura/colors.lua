@@ -23,7 +23,7 @@ local palette = {
 	function_name = "#E6E7A3",         -- Functions
 	tag = "#E6E7A3",                   -- HTML/XML tags
 	number = "#F9B98C",                -- Numbers and constants
-	string = "#E6E6E6",                -- Strings
+	string = "#F9B98C",                -- Strings
 	type = "#E6E7A3",                  -- Types, classes
 	attribute = "#54C0A3",             -- HTML attributes
 	
